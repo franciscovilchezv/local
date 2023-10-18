@@ -25,5 +25,3 @@ PATH="${PATH}:."
 export PATH="/opt/homebrew/opt/mongodb-community@4.4/bin:$PATH"
 export PATH="/opt/homebrew/opt/openjdk/bin:$PATH"
 
-# Load Angular CLI autocompletion.
-source <(ng completion script)
